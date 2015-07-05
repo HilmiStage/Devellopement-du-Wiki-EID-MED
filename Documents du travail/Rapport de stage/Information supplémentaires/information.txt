@@ -1,0 +1,39 @@
+﻿ Liste des mots magiques :
+Sont les suivant(e)s :
+Par exemple :
+
+Tout d’abord,
+Ensuite,
+De plus,
+Ainsi,
+En parallèle,
+Par ailleurs,
+Par conséquent,
+Par contre,
+Enfin,
+Finalement,
+En bref,
+En résumé,
+ 
+L’architecture pour créer une partie :
+Définition : 
+Présentation dans le stage : Nous avons réalisé le xxxxxx, suivant la méthode xxxxxx.
+Utilisation pendant le stage : Nous avons basé les fonctionnalités sur le schéma. Cela nous a permis de réaliser et de se rendre compte des difficultés, des incohérences, …
+Exemple : Droits des utilisateurs (Editeur)
+Illustration : impression écran des pages spéciales
+Livrable ou annexe : Document d’exigence, Tableau complet des droits utilisateurs et contraintes validé par le directeur techniques
+	Dans la partie de développement : 
+	Qui a choisi chaque outil informatique, 
+	pourquoi ce choix et un Exemple, 
+	difficultés rencontrées et comment tu l’as résolu (recours à un autre type de langage).
+
+
+
+La figure X présent ces résutalts
+Plus de détails est donné dans le tableau XX
+La figure X montre …. 
+
+Malgré ça l’exécution des instructions avec Ajax dépend de type de navigateur par exemple la méthode d’échange des données en Internet explorer est « ActiveXObject » mais pour les autre Chrome ou Firefox c’est «XMLHttpRequest ».
+
+Pour résoudre ces problèmes, je mettre des blocs des codes pour contrôler la version du navigateur.
+
