@@ -1,0 +1,17 @@
+-Pas de visualisation si pas de connexion==>Ok
+
+type d'utilisateur:
+-Admnistrateur (gère le support, et met en oeuvre les décisions prises)
+-Modérateur (vue globale: Animation, rappelle des règles, crée des catégories et tous ls pouvoirs en dessous, remonte à la hiérarchie et à l'administrateur les décisions à prendre)
+-Editeur (vérifie le texte, valide le texte ou le fait valider par un autre éditeur plus qualifié)
+-Contributeur (contirbue et propose les textes et les catégories)
+-Utilisateur (regarde les articles et faire des commentaires)
+
+Modèle:
+-Libre
+-Scientifique (comme une publication Intro/MM/Résultats....)
+-FAQ: 
+-Fiche (descritptif, protocole, schéma...)
+-Bilan (style narratif : Rapport d'activité, retour d'expérience, expériemenation, "benchmarking" = parengonnage)
+
+Possiblité d'ajout de vignettes pour mettre en valeur certains articles (projets LIFE+, GBP irrgation, ...): dans catégories, ou type d'articles ou autre choses?

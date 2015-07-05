@@ -1,0 +1,6 @@
+************************************ 
+ Nom de wiki : dt-wiki-dev
+ Nom de BD : wikidbdev
+ compte admin : admindev
+ Mot de passe : eidmed
+ courier : hbouallegue@rid-med.org

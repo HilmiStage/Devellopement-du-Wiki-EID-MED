@@ -1,0 +1,2 @@
+-On utilise la fonction prédefinie include
+include("demo.php");

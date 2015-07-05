@@ -1,0 +1,157 @@
+__NOTOC__
+<!--Annuler le sommaire automatique-->
+<!--Configuration du Page d'acceuil-->
+<!--La 1er partie-->
+{| style="width:100%; margin-bottom:0px;height:74px;"
+<!--La première cellule de données-->
+| style="background-repeat:no-repeat; width:100%; border:1px solid #0b5022; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;" |
+<table style="width:100%; margin-bottom:2px;">
+<tr>
+<td style="background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #0b5022; vertical-align:top; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius:5px;">
+<!--ici on met le text de presentation-->
+[[Fichier:EID.png|link=Accueil]]<b>Bienvenue sur DT-WIKI</b>
+<center><big>{{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}}</big></center>
+
+</td>
+</tr>
+</table>
+|}<!--Fin de la 1er partie-->
+<!--La 2eme Partie-->
+{| style="width:100%; margin-bottom:0px;height:74px;"
+| style="background-repeat:no-repeat; width:100%; border:1px solid #0b5022; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;" |
+<!--Partie du Portai pro-->
+<table style="width:100%; margin-bottom:2px;">
+<tr>
+<td style="background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #0b5022; vertical-align:top; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius:5px;">
+<table width="100%">
+<tr>
+<!--portail 1-->
+<td>
+<div class="floatright">
+[[Fichier:sante.png|80px|link=Portail:Portail Santé publique]]
+</div>
+</td>
+<td>
+<h1 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail Santé publique|Santé publique]]
+</span>
+</h1>
+</td>
+<!--portail 2-->
+<td>
+<div class="floatright">
+[[Fichier:demostication.png|80px|link=Portail:Portail Démoustication(Opérationnelle)]]
+</div>
+ </td>
+<td>
+ <h1 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail Démoustication(Opérationnelle)|Démoustication Opérationnelle]]
+</span>
+</h1>
+ </td>
+<!--portail 3-->
+<td>
+<div class="floatright">
+[[Fichier:cpp.png|80px|link=Portail:Portail R&D]]
+</div>
+ </td>
+<td>
+ <h1 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail R&D|R&D]]
+</span>
+</h1>
+ </td>
+</tr>
+<!--2eme ligne-->
+<tr>
+<!--portail 4-->
+<td>
+<div class="floatright">
+[[Fichier:ccclittoral.jpg|80px|link=Portail:Portail Littoral]]
+</div>
+</td>
+<td>
+<h1 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail Littoral|Littoral]]
+</span>
+</h1>
+</td>
+<!--portail 5-->
+<td>
+<div class="floatright">
+[[Fichier:lab.png|80px|link=Portail:Portail Laboratoire]]
+</div>
+ </td>
+<td>
+ <h1 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail Laboratoire|Laboratoire]]
+</span>
+</h1>
+ </td>
+<!--portail 6-->
+<td>
+<div class="floatright">
+[[Fichier:rs.png|80px|link=Portail Réseau Scientifique]]
+</div>
+ </td>
+<td>
+ <h1 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail Réseau Scientifique|Réseau Scientifique]]
+</span>
+</h1>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+|}<!--fin de la 2eme partie-->
+
+<!--La 3eme partie-->
+<TABLE  border="0" width="100%"> 
+<tr> 
+<td rowspan="2" width="50%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em">
+<tr>
+<td width="100%" style="border:1px solid #cccccc;background:#ffffff;padding:5px">
+<div style="text-align:left; border:1px solid #ffffff; background:#e3e5e5; height:25px;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#003713; padding:.15em .4em; display: inline;">
+<span class="mw-headline" id="Articles_de_la_semaine">
+Articles du mois
+</span></h2> 
+<div style="font-size:100%; display:inline; font-weight:bold;color:#003713; text-align:right"> </div>
+</div>
+
+Bonjour ici le contenu d'article du mois
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+</td>
+<td>
+<div id="rech" name="recherche" style="border: thin solid #2E2E00">
+<!--Il est ici le contenu du recherche-->
+Recherche ici
+<!--fin du contenu de recherche-->
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="rss" name="flux_rss" style="border: thin solid black">
+Flux RSS
+</div>
+</td>
+</tr>
+</TABLE>

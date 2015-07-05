@@ -1,0 +1,4 @@
+Un lien interwiki est un lien vers un autre wiki. 
+Ce lien est souvent vers un autre wiki de Wikia, mais ce peut être un autre wiki listé dans la carte interwiki. 
+Les liens interwiki sont des raccourcis qui vous évitent d'utiliser l'URL complète et éviteront que 
+les liens cassent si un wiki change d'adresse.

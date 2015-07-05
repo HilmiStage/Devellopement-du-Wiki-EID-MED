@@ -1,0 +1,174 @@
+__NOTOC__
+<!--1er partie-->
+<div style="background-color:#FFFFFF; display:block; border:3px solid #009f8d; vertical-align:top; width:100%;
+margin-bottom:7px; margin-top:7px; padding-bottom:1px; padding-left:0px; padding-right:0px; border-top-left-radius:8px; border-top-right-radius:8px; border-bottom-right-radius:8px; border-bottom-left-radius:8px; ">
+<h2 style="padding:3px; background:#009f8d; color:white; text-align:center; font-weight:bold; margin-bottom:5px; margin-top:0; font-size:120%; margin-left:0px; margin-right:0px; border-top-left-radius:8px; border-top-right-radius:8px;  ">
+Santé publique
+</h2>
+<div style="padding-left:10px;padding-right:10px; border-bottom-right-radius:8px; border-bottom-left-radius:8px;">
+<!--la zone de texte de portail-->
+<table>
+<tr>
+<td width="10%">
+[[Fichier:sante.png|80px|link=Portail:Portail Santé publique]]
+</td>
+<td>
+<b>Cette rubrique est destinée</b>
+</td>
+</tr>
+</table>
+<br clear="all">
+</div>
+</div>
+<!--fin de la 1er partie-->
+<!--La 2eme partie-->
+<TABLE  border="0" width="100%"> 
+<tr> 
+<td rowspan="2" width="50%" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.5em;margin-bottom:0.5em">
+<tr>
+<td width="100%" style="border:1px solid #cccccc;background:#ffffff;padding:5px; border-top-left-radius:8px; border-top-right-radius:8px; border-bottom-right-radius:8px; border-bottom-left-radius:8px; ">
+<div style="text-align:left; border:1px solid #ffffff; background:#e3e5e5; height:25px; border-top-left-radius:8px; border-top-right-radius:8px; border-bottom-right-radius:8px; border-bottom-left-radius:8px; ">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#003713; padding:.15em .4em; display: inline;">
+<span class="mw-headline" id="der_art">
+catégories du Portail Santé publique 
+</span></h2> 
+<div style="font-size:100%; display:inline; font-weight:bold;color:#003713; text-align:right"> </div>
+</div>
+<!--Mettre ici les categories-->
+Les catégories 
+
+
+<!--Fin de la partie des categories-->
+</td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<!--Il est ici la partie du dernier article-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top">
+<div style="background-color:#FAF5F1; display:block; border:1.5px solid #0066FF; vertical-align:top; width:100%;
+margin-bottom:7px; margin-top:7px; padding-bottom:1px; padding-left:0px; padding-right:0px; border-top-left-radius:8px; border-top-right-radius:8px; border-bottom-right-radius:8px; border-bottom-left-radius:8px; ">
+<h2 style="padding:3px; background:#0066FF; color:white; text-align:center; font-weight:bold; margin-bottom:5px; margin-top:0; font-size:90%; margin-left:0px; margin-right:0px; border-top-left-radius:8px; border-top-right-radius:8px;  ">
+Dernier Article
+</h2>
+<!--Ici mettre le contenu du dernier article-->
+Bonjour
+<!--Fin de la contenu du dernier article-->
+</div>
+<!--La partie de dernier article-->
+<!--Fin de la partie de dernier article-->
+</td>
+</tr>
+</table>
+<!--fin du contenu Dernier Article-->
+</td>
+</tr>
+<tr>
+<td>
+<div style="background-color:#FAF5F1; display:block; border:1.5px solid #0066FF; vertical-align:top; width:100%;
+margin-bottom:7px; margin-top:7px; padding-bottom:1px; padding-left:0px; padding-right:0px; border-top-left-radius:8px; border-top-right-radius:8px; border-bottom-right-radius:8px; border-bottom-left-radius:8px; ">
+<h2 style="padding:3px; background:#0066FF; color:white; text-align:center; font-weight:bold; margin-bottom:5px; margin-top:0; font-size:90%; margin-left:0px; margin-right:0px; border-top-left-radius:8px; border-top-right-radius:8px;  ">
+Accès aux autres Portails thématiques
+</h2>
+<!--La division des portails thématiques-->
+<!--Partie des portails thématiques-->
+<table style="width:100%; margin-bottom:2px;">
+<tr>
+<td style="background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:0px solid #0b5022; vertical-align:top; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius:5px;">
+<table width="100%">
+<tr>
+<!--portail 1-->
+<td>
+<div class="floatright">
+[[Fichier:sante.png|40px|link=Portail:Portail Santé publique]]
+</div>
+</td>
+<td>
+<h1 style="margin:0; border-bottom:0; font-size:80%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail Santé publique|Santé publique]]
+</span>
+</h1>
+</td>
+<!--portail 2-->
+<td>
+<div class="floatright">
+[[Fichier:demostication.png|40px|link=Portail:Portail Démoustication(Opérationnelle)]]
+</div>
+ </td>
+<td>
+ <h1 style="margin:0; border-bottom:0; font-size:80%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail Démoustication(Opérationnelle)|Démoustication Opérationnelle]]
+</span>
+</h1>
+ </td>
+<!--portail 3-->
+<td>
+<div class="floatright">
+[[Fichier:cpp.png|40px|link=Portail:Portail R&D]]
+</div>
+ </td>
+<td>
+ <h1 style="margin:0; border-bottom:0; font-size:80%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail R&D|R&D]]
+</span>
+</h1>
+ </td>
+</tr>
+<!--2eme ligne-->
+<tr>
+<!--portail 4-->
+<td>
+<div class="floatright">
+[[Fichier:ccclittoral.jpg|40px|link=Portail:Portail Littoral]]
+</div>
+</td>
+<td>
+<h1 style="margin:0; border-bottom:0; font-size:80%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail Littoral|Littoral]]
+</span>
+</h1>
+</td>
+<!--portail 5-->
+<td>
+<div class="floatright">
+[[Fichier:lab.png|40px|link=Portail:Portail Laboratoire]]
+</div>
+ </td>
+<td>
+ <h1 style="margin:0; border-bottom:0; font-size:80%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail Laboratoire|Laboratoire]]
+</span>
+</h1>
+ </td>
+<!--portail 6-->
+<td>
+<div class="floatright">
+[[Fichier:rs.png|40px|link=Portail Réseau Scientifique]]
+</div>
+ </td>
+<td>
+ <h1 style="margin:0; border-bottom:0; font-size:80%; font-weight:bold; text-align:left; padding:.15em .4em;">
+<span class="mw-headline" id="Premiers_pas">
+[[Portail:Portail Réseau Scientifique|Réseau Scientifique]]
+</span>
+</h1>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--Fin de la partie des Portail thématique-->
+</div>
+</td>
+</tr>
+</TABLE>
+<!--fin de la 2eme categories-->
